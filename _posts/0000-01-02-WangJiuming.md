@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Experience is the name everyone give to their mistakes.
 Use the left arrow to go back!
